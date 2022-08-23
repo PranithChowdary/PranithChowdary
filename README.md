@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/50762556/186070739-a0a3a0d2-a52a-4b13-b87a-d43858873b73.png" width="450"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Pranith Chowdary Karumanchi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
