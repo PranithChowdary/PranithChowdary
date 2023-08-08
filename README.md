@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranithtpm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S474l1hQdBA1q0jI1JAXV9H4xkjwHbrk/view?usp=sharing](https://drive.google.com/file/d/1S474l1hQdBA1q0jI1JAXV9H4xkjwHbrk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X-k_2CYaGyeMqOQKeGzl4p31Xi63LUVd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
