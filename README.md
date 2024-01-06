@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/50762556/186070739-a0a3a0d2-a52a-4b13-b87a-d43858873b73.png" width="450"/>
-  <img src="https://assets.pinterest.com/ext/embed.html?id=1118440888690048005" height="445" width="345" frameborder="0" scrolling="no" />
+  <img src="https://user-images.githubusercontent.com/50762556/186070739-a0a3a0d2-a52a-4b13-b87a-d43858873b73.png" width="460"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Pranith Chowdary Karumanchi</h1>
