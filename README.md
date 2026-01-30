@@ -18,7 +18,7 @@
 ### 🔗 Quick Links
 
 - 🔍 Explore my work: [GitHub Repositories](https://github.com/PranithChowdary?tab=repositories)  
-- 📄 [View My Resume](https://drive.google.com/file/d/1Ujih1quHEZCEl7YTzH8fjTiKIR7ADDFK/view?usp=sharing)  
+- 📄 View My [Resume](https://drive.google.com/file/d/1YEAIUsylHHFJ8xvZbnFSFJoQpJNY3v0o/view?usp=sharing)  
 - 📫 How to reach me **pranithtpm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
