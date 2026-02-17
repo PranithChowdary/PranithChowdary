@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranith Chowdary Karumanchi</h1>
 <h3 align="center">AI Researcher and Data Scientist</h3>
 
-<meta name="google-site-verification" content="j-WLmfgzJTBbIB-HQWC-sreyqumx9j9et1OqA47kUx4" />
+<html>
+  <head>
+    <meta name="google-site-verification" content="j-WLmfgzJTBbIB-HQWC-sreyqumx9j9et1OqA47kUx4" />
+  </head>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="pranithchowdary" /> </p>
 
