@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranith Chowdary Karumanchi</h1>
 <h3 align="center">AI Researcher and Data Scientist</h3>
 
+<meta name="google-site-verification" content="j-WLmfgzJTBbIB-HQWC-sreyqumx9j9et1OqA47kUx4" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="pranithchowdary" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranithchowdary" alt="pranithchowdary" /></a> </p> -->
